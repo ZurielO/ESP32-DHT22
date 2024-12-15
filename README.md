@@ -9,8 +9,13 @@ El objetivo de esta práctica es aprender a utilizar la placa ESP32 en conjunto 
 ## Diagrama de conexión
 El pin DHT_PIN del sensor DHT22 está conectado al GPIO 15 de la ESP32.
 Se utiliza una resistencia de pull-up de 10k ohmios en la conexión entre el pin de señal del DHT22 y el pin GPIO de la ESP32.
+
+![Texto alternativo](https://github.com/ZurielO/ESP32-DHT22/blob/main/imagen_2024-12-15_145545256.png) 
+
 ## Descripción del código
 El código de Arduino que se utiliza para esta práctica está basado en la biblioteca DHTesp, que facilita la comunicación con el sensor DHT22. A continuación se explica el funcionamiento del código:
+
+
 
  #include "DHTesp.h
 const int DHT_PIN = 15; // Pin de conexión del sensor
@@ -41,7 +46,9 @@ Por ejemplo, en el monitor serie, los resultados deberían aparecer de la siguie
 
 ---
 Temp: 52.6 °C
+
 Humidity: 57%
+
 ---
 ![Texto alternativo](https://github.com/ZurielO/ESP32-DHT22/blob/main/imagen_2024-12-15_144454105.png?raw=true)
 
