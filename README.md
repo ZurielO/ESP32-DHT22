@@ -47,6 +47,7 @@ Humidity: 60.0%
 Temp: 24.6°C
 Humidity: 59.8%
 ---
+![Texto alternativo]()
 
 Los valores de temperatura y humedad serán diferentes dependiendo del entorno en el que se simule o se ejecute el código.
 
