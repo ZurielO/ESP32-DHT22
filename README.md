@@ -39,13 +39,9 @@ Al ejecutar este código en la plataforma Wokwi o en un entorno físico con la E
 
 Por ejemplo, en el monitor serie, los resultados deberían aparecer de la siguiente manera:
 
-yaml
-Copiar código
-Temp: 24.5°C
-Humidity: 60.0%
 ---
-Temp: 24.6°C
-Humidity: 59.8%
+Temp: 52.6 °C
+Humidity: 57%
 ---
 ![Texto alternativo](https://github.com/ZurielO/ESP32-DHT22/blob/main/imagen_2024-12-15_144454105.png?raw=true)
 
