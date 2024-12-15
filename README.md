@@ -47,7 +47,7 @@ Humidity: 60.0%
 Temp: 24.6°C
 Humidity: 59.8%
 ---
-![Texto alternativo]()
+![Texto alternativo](https://github.com/ZurielO/ESP32-DHT22/blob/main/imagen_2024-12-15_144454105.png?raw=true)
 
 Los valores de temperatura y humedad serán diferentes dependiendo del entorno en el que se simule o se ejecute el código.
 
